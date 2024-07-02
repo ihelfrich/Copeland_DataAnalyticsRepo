@@ -1,0 +1,1577 @@
+[
+    {
+        "days_since_maintenance": 0.0,
+        "volt": 170.86634484436775,
+        "rotate": 448.5102195785068,
+        "pressure": 100.99680029364283,
+        "vibration": 40.215587509111046
+    },
+    {
+        "days_since_maintenance": 1.0,
+        "volt": 170.35188636593745,
+        "rotate": 447.77720584738313,
+        "pressure": 100.76189278600167,
+        "vibration": 40.13391194713434
+    },
+    {
+        "days_since_maintenance": 2.0,
+        "volt": 170.2985647531727,
+        "rotate": 447.9330177864719,
+        "pressure": 100.71331710353003,
+        "vibration": 40.15296277016395
+    },
+    {
+        "days_since_maintenance": 3.0,
+        "volt": 170.3772929707132,
+        "rotate": 448.60899508984795,
+        "pressure": 100.51748359147098,
+        "vibration": 40.26463289454574
+    },
+    {
+        "days_since_maintenance": 4.0,
+        "volt": 170.6996353134303,
+        "rotate": 448.30886601014686,
+        "pressure": 100.40322952374403,
+        "vibration": 40.31825137433443
+    },
+    {
+        "days_since_maintenance": 5.0,
+        "volt": 170.72995750929067,
+        "rotate": 448.19479049896484,
+        "pressure": 100.5267020041456,
+        "vibration": 40.378521848812895
+    },
+    {
+        "days_since_maintenance": 6.0,
+        "volt": 170.96091675822936,
+        "rotate": 448.08194044040704,
+        "pressure": 100.55539794767135,
+        "vibration": 40.25630719237989
+    },
+    {
+        "days_since_maintenance": 7.0,
+        "volt": 170.958062207317,
+        "rotate": 448.62250260342927,
+        "pressure": 100.53219193576548,
+        "vibration": 40.18402905469219
+    },
+    {
+        "days_since_maintenance": 8.0,
+        "volt": 170.52565642682882,
+        "rotate": 448.11021770492914,
+        "pressure": 100.67491901786327,
+        "vibration": 40.188661659384785
+    },
+    {
+        "days_since_maintenance": 9.0,
+        "volt": 170.64134498949983,
+        "rotate": 447.59053835513936,
+        "pressure": 100.67751788594677,
+        "vibration": 40.20475535019193
+    },
+    {
+        "days_since_maintenance": 10.0,
+        "volt": 170.5096892481582,
+        "rotate": 447.0519892332392,
+        "pressure": 100.59266716089313,
+        "vibration": 40.33281832703027
+    },
+    {
+        "days_since_maintenance": 11.0,
+        "volt": 170.67848212447478,
+        "rotate": 447.352346001251,
+        "pressure": 100.72910366191888,
+        "vibration": 40.27105210344212
+    },
+    {
+        "days_since_maintenance": 12.0,
+        "volt": 170.61627138327344,
+        "rotate": 448.1778676218291,
+        "pressure": 100.72294272320211,
+        "vibration": 40.28984722703945
+    },
+    {
+        "days_since_maintenance": 13.0,
+        "volt": 170.35345981351753,
+        "rotate": 437.72829964529325,
+        "pressure": 102.27230567250969,
+        "vibration": 41.19864879256161
+    },
+    {
+        "days_since_maintenance": 14.0,
+        "volt": 170.57765198079335,
+        "rotate": 437.7324937892978,
+        "pressure": 102.09653862476584,
+        "vibration": 41.08199893380705
+    },
+    {
+        "days_since_maintenance": 15.0,
+        "volt": 170.68843440119213,
+        "rotate": 447.1223700393715,
+        "pressure": 100.7771844068696,
+        "vibration": 40.41379740229495
+    },
+    {
+        "days_since_maintenance": 16.0,
+        "volt": 170.65499090071899,
+        "rotate": 447.19514523092846,
+        "pressure": 100.43506618294674,
+        "vibration": 40.26256400523257
+    },
+    {
+        "days_since_maintenance": 17.0,
+        "volt": 170.88257766420355,
+        "rotate": 447.3179825958077,
+        "pressure": 100.57571872424779,
+        "vibration": 40.387618570516736
+    },
+    {
+        "days_since_maintenance": 18.0,
+        "volt": 170.96422386045322,
+        "rotate": 448.1671858427743,
+        "pressure": 100.39089677419337,
+        "vibration": 40.29379597269037
+    },
+    {
+        "days_since_maintenance": 19.0,
+        "volt": 170.52351352237324,
+        "rotate": 447.8696882967346,
+        "pressure": 100.49639666566507,
+        "vibration": 40.34086190795922
+    },
+    {
+        "days_since_maintenance": 20.0,
+        "volt": 170.65406313875485,
+        "rotate": 449.4121617106558,
+        "pressure": 100.51021365121404,
+        "vibration": 40.37414039241309
+    },
+    {
+        "days_since_maintenance": 21.0,
+        "volt": 170.38348710428238,
+        "rotate": 448.1653305315319,
+        "pressure": 100.52301068389639,
+        "vibration": 40.46293830406591
+    },
+    {
+        "days_since_maintenance": 22.0,
+        "volt": 170.54595420082828,
+        "rotate": 447.9786507548134,
+        "pressure": 100.61920261383794,
+        "vibration": 40.27362966020979
+    },
+    {
+        "days_since_maintenance": 23.0,
+        "volt": 170.47190338940763,
+        "rotate": 448.2927858046819,
+        "pressure": 100.50711252251465,
+        "vibration": 40.27462412621559
+    },
+    {
+        "days_since_maintenance": 24.0,
+        "volt": 170.54807695313048,
+        "rotate": 447.9118109220675,
+        "pressure": 100.67688301006146,
+        "vibration": 40.31317563981239
+    },
+    {
+        "days_since_maintenance": 25.0,
+        "volt": 170.55750822593555,
+        "rotate": 448.71513361274776,
+        "pressure": 100.70946855328062,
+        "vibration": 40.271137426371006
+    },
+    {
+        "days_since_maintenance": 26.0,
+        "volt": 170.2389069900586,
+        "rotate": 447.9345844799331,
+        "pressure": 100.69970388468532,
+        "vibration": 40.29745687616335
+    },
+    {
+        "days_since_maintenance": 27.0,
+        "volt": 170.41297787262772,
+        "rotate": 445.9273640777221,
+        "pressure": 100.83691991225939,
+        "vibration": 40.36235925809477
+    },
+    {
+        "days_since_maintenance": 28.0,
+        "volt": 170.7158113501077,
+        "rotate": 437.28181735423715,
+        "pressure": 103.04608320382893,
+        "vibration": 41.09496912124617
+    },
+    {
+        "days_since_maintenance": 29.0,
+        "volt": 170.5735890435713,
+        "rotate": 437.8979027999324,
+        "pressure": 103.04676710967385,
+        "vibration": 41.0892433610869
+    },
+    {
+        "days_since_maintenance": 30.0,
+        "volt": 170.25800341347357,
+        "rotate": 446.06001425338025,
+        "pressure": 100.53248045170209,
+        "vibration": 40.35800050479668
+    },
+    {
+        "days_since_maintenance": 31.0,
+        "volt": 170.46843725394345,
+        "rotate": 448.0179297354413,
+        "pressure": 100.55445537501708,
+        "vibration": 40.197362675099605
+    },
+    {
+        "days_since_maintenance": 32.0,
+        "volt": 170.62203175278404,
+        "rotate": 447.5847479203762,
+        "pressure": 100.73977659000897,
+        "vibration": 40.44704867404932
+    },
+    {
+        "days_since_maintenance": 33.0,
+        "volt": 170.5343768371337,
+        "rotate": 447.29955839050075,
+        "pressure": 100.5078475723565,
+        "vibration": 40.490434044443305
+    },
+    {
+        "days_since_maintenance": 34.0,
+        "volt": 170.53092055205673,
+        "rotate": 447.8748093791929,
+        "pressure": 100.44137958009007,
+        "vibration": 40.449517746473816
+    },
+    {
+        "days_since_maintenance": 35.0,
+        "volt": 170.6309232312826,
+        "rotate": 446.6298722532598,
+        "pressure": 100.6673742361437,
+        "vibration": 40.49635535274506
+    },
+    {
+        "days_since_maintenance": 36.0,
+        "volt": 170.56388153506398,
+        "rotate": 446.5430596279854,
+        "pressure": 100.58630879423421,
+        "vibration": 40.32272558119053
+    },
+    {
+        "days_since_maintenance": 37.0,
+        "volt": 170.48147483736895,
+        "rotate": 448.5254671473744,
+        "pressure": 100.28599996250077,
+        "vibration": 40.249183323919645
+    },
+    {
+        "days_since_maintenance": 38.0,
+        "volt": 170.77294925839163,
+        "rotate": 447.5284147054563,
+        "pressure": 100.37491631008051,
+        "vibration": 40.111510382290454
+    },
+    {
+        "days_since_maintenance": 39.0,
+        "volt": 170.797371088651,
+        "rotate": 447.52824616745505,
+        "pressure": 100.66315242404747,
+        "vibration": 40.227000474945044
+    },
+    {
+        "days_since_maintenance": 40.0,
+        "volt": 170.94739921431935,
+        "rotate": 448.0926135799307,
+        "pressure": 100.79152379712907,
+        "vibration": 40.3411512619464
+    },
+    {
+        "days_since_maintenance": 41.0,
+        "volt": 170.43125587842601,
+        "rotate": 446.75021502330054,
+        "pressure": 100.77515937448194,
+        "vibration": 40.0863647607255
+    },
+    {
+        "days_since_maintenance": 42.0,
+        "volt": 170.39312287550086,
+        "rotate": 445.5493186873247,
+        "pressure": 100.94223180432826,
+        "vibration": 40.17289407050432
+    },
+    {
+        "days_since_maintenance": 43.0,
+        "volt": 173.79696096971088,
+        "rotate": 440.96622724387856,
+        "pressure": 101.31576882574112,
+        "vibration": 41.07367673716104
+    },
+    {
+        "days_since_maintenance": 44.0,
+        "volt": 174.01550095514082,
+        "rotate": 439.32642353084805,
+        "pressure": 101.11632216170068,
+        "vibration": 40.974698093790956
+    },
+    {
+        "days_since_maintenance": 45.0,
+        "volt": 170.79518289905155,
+        "rotate": 447.9288475157963,
+        "pressure": 100.82664684202369,
+        "vibration": 40.214673536383955
+    },
+    {
+        "days_since_maintenance": 46.0,
+        "volt": 170.77580529732975,
+        "rotate": 447.0157266849996,
+        "pressure": 100.83232578803616,
+        "vibration": 40.390913213408005
+    },
+    {
+        "days_since_maintenance": 47.0,
+        "volt": 171.007869378618,
+        "rotate": 448.2186838020775,
+        "pressure": 101.26005049307139,
+        "vibration": 40.50383478330711
+    },
+    {
+        "days_since_maintenance": 48.0,
+        "volt": 170.85229425999384,
+        "rotate": 447.2098126526193,
+        "pressure": 101.44155358658658,
+        "vibration": 40.42949768459284
+    },
+    {
+        "days_since_maintenance": 49.0,
+        "volt": 170.92363907727452,
+        "rotate": 447.2299204389015,
+        "pressure": 100.99976417106353,
+        "vibration": 40.48195579953072
+    },
+    {
+        "days_since_maintenance": 50.0,
+        "volt": 170.86883810949612,
+        "rotate": 448.7791575228262,
+        "pressure": 100.55338016738345,
+        "vibration": 40.28784531598927
+    },
+    {
+        "days_since_maintenance": 51.0,
+        "volt": 170.42223701370582,
+        "rotate": 447.4987100457289,
+        "pressure": 100.64940260352441,
+        "vibration": 40.281859183331825
+    },
+    {
+        "days_since_maintenance": 52.0,
+        "volt": 170.62879041396525,
+        "rotate": 448.8247429702054,
+        "pressure": 100.41750759333216,
+        "vibration": 40.44173310789926
+    },
+    {
+        "days_since_maintenance": 53.0,
+        "volt": 170.27062933399642,
+        "rotate": 448.692123190442,
+        "pressure": 100.64994285140179,
+        "vibration": 40.480090250642846
+    },
+    {
+        "days_since_maintenance": 54.0,
+        "volt": 170.6535040713717,
+        "rotate": 450.0361113879562,
+        "pressure": 100.4556577134818,
+        "vibration": 40.45946709846446
+    },
+    {
+        "days_since_maintenance": 55.0,
+        "volt": 170.2216585984607,
+        "rotate": 448.191579589266,
+        "pressure": 100.3684649219809,
+        "vibration": 40.21357963081981
+    },
+    {
+        "days_since_maintenance": 56.0,
+        "volt": 170.06032099537546,
+        "rotate": 447.3307301356815,
+        "pressure": 100.74783799187392,
+        "vibration": 40.16369548835894
+    },
+    {
+        "days_since_maintenance": 57.0,
+        "volt": 170.27432818679037,
+        "rotate": 446.5654381774896,
+        "pressure": 100.86984979582664,
+        "vibration": 40.29087362599638
+    },
+    {
+        "days_since_maintenance": 58.0,
+        "volt": 173.18396490104178,
+        "rotate": 441.4873761860306,
+        "pressure": 101.28619238144826,
+        "vibration": 40.92044166574199
+    },
+    {
+        "days_since_maintenance": 59.0,
+        "volt": 173.35247970782612,
+        "rotate": 441.40521100556856,
+        "pressure": 101.32618976402325,
+        "vibration": 40.68203616002827
+    },
+    {
+        "days_since_maintenance": 60.0,
+        "volt": 170.07859969462365,
+        "rotate": 447.3600233205272,
+        "pressure": 100.76333444280755,
+        "vibration": 40.34295974234369
+    },
+    {
+        "days_since_maintenance": 61.0,
+        "volt": 170.51482590283945,
+        "rotate": 449.1381021330321,
+        "pressure": 100.69684885313008,
+        "vibration": 40.234590981070596
+    },
+    {
+        "days_since_maintenance": 62.0,
+        "volt": 171.05032347035984,
+        "rotate": 448.2928918142481,
+        "pressure": 100.83917016203135,
+        "vibration": 40.089734080391615
+    },
+    {
+        "days_since_maintenance": 63.0,
+        "volt": 170.70876463099347,
+        "rotate": 448.3199364750406,
+        "pressure": 100.79848832440547,
+        "vibration": 40.05467348093744
+    },
+    {
+        "days_since_maintenance": 64.0,
+        "volt": 170.63886548917665,
+        "rotate": 448.45620710135466,
+        "pressure": 100.60008849851084,
+        "vibration": 40.04894499742463
+    },
+    {
+        "days_since_maintenance": 65.0,
+        "volt": 170.38974855455143,
+        "rotate": 448.3776171457394,
+        "pressure": 101.23297224249173,
+        "vibration": 40.23837376266182
+    },
+    {
+        "days_since_maintenance": 66.0,
+        "volt": 170.5649393895729,
+        "rotate": 446.99239190032483,
+        "pressure": 100.85934497631453,
+        "vibration": 40.49782922983328
+    },
+    {
+        "days_since_maintenance": 67.0,
+        "volt": 170.54365269224866,
+        "rotate": 446.6750904192439,
+        "pressure": 100.84456872063475,
+        "vibration": 40.558883370143846
+    },
+    {
+        "days_since_maintenance": 68.0,
+        "volt": 170.7617168417184,
+        "rotate": 447.43174796006014,
+        "pressure": 100.88435026914284,
+        "vibration": 40.589414094002315
+    },
+    {
+        "days_since_maintenance": 69.0,
+        "volt": 170.13843330312878,
+        "rotate": 448.8371067731822,
+        "pressure": 100.07785024702471,
+        "vibration": 40.505606552918145
+    },
+    {
+        "days_since_maintenance": 70.0,
+        "volt": 170.5258066970781,
+        "rotate": 445.9927999270882,
+        "pressure": 100.5513694793655,
+        "vibration": 40.415998766044396
+    },
+    {
+        "days_since_maintenance": 71.0,
+        "volt": 170.52844019504292,
+        "rotate": 448.51310209277034,
+        "pressure": 100.88264897039433,
+        "vibration": 40.2868259196706
+    },
+    {
+        "days_since_maintenance": 72.0,
+        "volt": 171.26242577043325,
+        "rotate": 448.5408791398599,
+        "pressure": 100.95130963599573,
+        "vibration": 40.19470200360512
+    },
+    {
+        "days_since_maintenance": 73.0,
+        "volt": 174.02765326273416,
+        "rotate": 440.87598611160195,
+        "pressure": 102.28553314976514,
+        "vibration": 40.79426408322185
+    },
+    {
+        "days_since_maintenance": 74.0,
+        "volt": 173.86428421089357,
+        "rotate": 439.9869945872416,
+        "pressure": 101.98141865314332,
+        "vibration": 41.0411860234022
+    },
+    {
+        "days_since_maintenance": 75.0,
+        "volt": 170.22961693020943,
+        "rotate": 448.11654035836574,
+        "pressure": 100.68103431587978,
+        "vibration": 40.6903346656355
+    },
+    {
+        "days_since_maintenance": 76.0,
+        "volt": 170.68702342875216,
+        "rotate": 447.8352262436667,
+        "pressure": 101.04041127050998,
+        "vibration": 40.37522535274169
+    },
+    {
+        "days_since_maintenance": 77.0,
+        "volt": 170.40179952822976,
+        "rotate": 448.19815805265023,
+        "pressure": 100.5810612257353,
+        "vibration": 40.237727478342286
+    },
+    {
+        "days_since_maintenance": 78.0,
+        "volt": 170.8391950717527,
+        "rotate": 448.189500487864,
+        "pressure": 100.58507002266929,
+        "vibration": 40.206449773470226
+    },
+    {
+        "days_since_maintenance": 79.0,
+        "volt": 171.25498503193444,
+        "rotate": 448.7225174676871,
+        "pressure": 100.70162258364051,
+        "vibration": 40.28099276114266
+    },
+    {
+        "days_since_maintenance": 80.0,
+        "volt": 171.43480425314152,
+        "rotate": 446.68694434579055,
+        "pressure": 100.80720326076367,
+        "vibration": 40.415153595940836
+    },
+    {
+        "days_since_maintenance": 81.0,
+        "volt": 170.08431352009652,
+        "rotate": 447.8611443435025,
+        "pressure": 100.39493994031596,
+        "vibration": 40.11199843816604
+    },
+    {
+        "days_since_maintenance": 82.0,
+        "volt": 170.37147960149068,
+        "rotate": 449.64440238783885,
+        "pressure": 100.3438636189042,
+        "vibration": 40.172936887697944
+    },
+    {
+        "days_since_maintenance": 83.0,
+        "volt": 170.17765300087947,
+        "rotate": 448.58263719922104,
+        "pressure": 101.18251205989024,
+        "vibration": 40.21032040735197
+    },
+    {
+        "days_since_maintenance": 84.0,
+        "volt": 170.4376515523944,
+        "rotate": 449.3395946528623,
+        "pressure": 101.39830439436088,
+        "vibration": 40.30059310676917
+    },
+    {
+        "days_since_maintenance": 85.0,
+        "volt": 169.59476703909283,
+        "rotate": 447.4717106618261,
+        "pressure": 100.8910091463361,
+        "vibration": 40.64293476700553
+    },
+    {
+        "days_since_maintenance": 86.0,
+        "volt": 170.7583908965148,
+        "rotate": 444.78642452258345,
+        "pressure": 100.73840078928909,
+        "vibration": 40.58399169222691
+    },
+    {
+        "days_since_maintenance": 87.0,
+        "volt": 170.26438796136688,
+        "rotate": 442.5484117962003,
+        "pressure": 101.14417543688144,
+        "vibration": 40.096581596440075
+    },
+    {
+        "days_since_maintenance": 88.0,
+        "volt": 171.981178270276,
+        "rotate": 435.3478771647537,
+        "pressure": 102.29621045997015,
+        "vibration": 40.89584325747706
+    },
+    {
+        "days_since_maintenance": 89.0,
+        "volt": 172.26759543724484,
+        "rotate": 436.0644277597616,
+        "pressure": 102.51785321889831,
+        "vibration": 41.046677546608386
+    },
+    {
+        "days_since_maintenance": 90.0,
+        "volt": 170.21547849966456,
+        "rotate": 445.63573438026737,
+        "pressure": 100.10163865437211,
+        "vibration": 40.35915562310914
+    },
+    {
+        "days_since_maintenance": 91.0,
+        "volt": 171.30324201551136,
+        "rotate": 447.3679669642539,
+        "pressure": 100.19465620791651,
+        "vibration": 40.08074524136212
+    },
+    {
+        "days_since_maintenance": 92.0,
+        "volt": 170.6762589517952,
+        "rotate": 447.2696411684293,
+        "pressure": 99.67186399156752,
+        "vibration": 40.22224599673929
+    },
+    {
+        "days_since_maintenance": 93.0,
+        "volt": 169.70686688723225,
+        "rotate": 447.5821634934617,
+        "pressure": 100.04753781192203,
+        "vibration": 40.26355893306466
+    },
+    {
+        "days_since_maintenance": 94.0,
+        "volt": 169.92786094030333,
+        "rotate": 448.3234665719983,
+        "pressure": 100.54738510785427,
+        "vibration": 40.28303051025166
+    },
+    {
+        "days_since_maintenance": 95.0,
+        "volt": 170.52950938759213,
+        "rotate": 447.583194106115,
+        "pressure": 101.36629821758669,
+        "vibration": 40.433670045780424
+    },
+    {
+        "days_since_maintenance": 96.0,
+        "volt": 169.6516121601527,
+        "rotate": 447.548336494705,
+        "pressure": 100.8301467874836,
+        "vibration": 40.48728738030857
+    },
+    {
+        "days_since_maintenance": 97.0,
+        "volt": 169.87131828331084,
+        "rotate": 447.5213406368669,
+        "pressure": 100.72116188237774,
+        "vibration": 40.46451259685986
+    },
+    {
+        "days_since_maintenance": 98.0,
+        "volt": 169.83873886290877,
+        "rotate": 447.0005551897145,
+        "pressure": 101.00989479520672,
+        "vibration": 40.44631915572361
+    },
+    {
+        "days_since_maintenance": 99.0,
+        "volt": 170.033903203288,
+        "rotate": 447.6272007796608,
+        "pressure": 101.66124169834579,
+        "vibration": 40.60680541749553
+    },
+    {
+        "days_since_maintenance": 100.0,
+        "volt": 170.56167416131703,
+        "rotate": 447.61434121503106,
+        "pressure": 102.19500955634886,
+        "vibration": 40.546304505632726
+    },
+    {
+        "days_since_maintenance": 101.0,
+        "volt": 170.28556451445058,
+        "rotate": 446.1926891412436,
+        "pressure": 100.42101312671211,
+        "vibration": 40.37156174613963
+    },
+    {
+        "days_since_maintenance": 102.0,
+        "volt": 170.63957398085319,
+        "rotate": 448.35380081261354,
+        "pressure": 100.31625384706352,
+        "vibration": 40.319280332410344
+    },
+    {
+        "days_since_maintenance": 103.0,
+        "volt": 173.931711295091,
+        "rotate": 440.1542509257151,
+        "pressure": 101.98768879579451,
+        "vibration": 41.8611422658105
+    },
+    {
+        "days_since_maintenance": 104.0,
+        "volt": 174.17862381501433,
+        "rotate": 441.13678915162956,
+        "pressure": 102.23925979876948,
+        "vibration": 41.338489348208995
+    },
+    {
+        "days_since_maintenance": 105.0,
+        "volt": 171.31504013901804,
+        "rotate": 448.0521953711842,
+        "pressure": 100.9391247886599,
+        "vibration": 40.29474871546765
+    },
+    {
+        "days_since_maintenance": 106.0,
+        "volt": 170.81787349699752,
+        "rotate": 447.0071422376522,
+        "pressure": 99.9969891219596,
+        "vibration": 39.96366460739539
+    },
+    {
+        "days_since_maintenance": 107.0,
+        "volt": 170.21452617713445,
+        "rotate": 444.3430099505193,
+        "pressure": 100.1944426857373,
+        "vibration": 39.83975509003362
+    },
+    {
+        "days_since_maintenance": 108.0,
+        "volt": 169.83429946059894,
+        "rotate": 447.33588752531284,
+        "pressure": 100.9125852880766,
+        "vibration": 40.06083869414897
+    },
+    {
+        "days_since_maintenance": 109.0,
+        "volt": 171.15118040852798,
+        "rotate": 449.2588818561743,
+        "pressure": 100.4304477762775,
+        "vibration": 40.384753945087944
+    },
+    {
+        "days_since_maintenance": 110.0,
+        "volt": 170.53046451815953,
+        "rotate": 447.3540995708152,
+        "pressure": 100.82350912314187,
+        "vibration": 40.72997162116085
+    },
+    {
+        "days_since_maintenance": 111.0,
+        "volt": 170.81280323116087,
+        "rotate": 445.69785483014863,
+        "pressure": 101.1824704537807,
+        "vibration": 40.97344234722884
+    },
+    {
+        "days_since_maintenance": 112.0,
+        "volt": 171.1551383394364,
+        "rotate": 446.9480104919227,
+        "pressure": 100.15505918242592,
+        "vibration": 40.770109390594776
+    },
+    {
+        "days_since_maintenance": 113.0,
+        "volt": 170.89315986417296,
+        "rotate": 447.4255263901926,
+        "pressure": 101.50456023753098,
+        "vibration": 40.158325639155066
+    },
+    {
+        "days_since_maintenance": 114.0,
+        "volt": 170.69301047999193,
+        "rotate": 447.5965246753679,
+        "pressure": 102.34121147356839,
+        "vibration": 39.73814172042668
+    },
+    {
+        "days_since_maintenance": 115.0,
+        "volt": 170.29512697088816,
+        "rotate": 445.9848062130288,
+        "pressure": 101.19643750540284,
+        "vibration": 40.1837524622799
+    },
+    {
+        "days_since_maintenance": 116.0,
+        "volt": 171.4698787731854,
+        "rotate": 448.71331053044537,
+        "pressure": 99.89765999180487,
+        "vibration": 40.63243225065148
+    },
+    {
+        "days_since_maintenance": 117.0,
+        "volt": 171.29536962973722,
+        "rotate": 445.93817646573297,
+        "pressure": 100.2232512529524,
+        "vibration": 40.542843599156015
+    },
+    {
+        "days_since_maintenance": 118.0,
+        "volt": 173.69419172835202,
+        "rotate": 438.08150807884283,
+        "pressure": 100.73239419911384,
+        "vibration": 40.67720905365385
+    },
+    {
+        "days_since_maintenance": 119.0,
+        "volt": 174.20173987687517,
+        "rotate": 436.7806273779062,
+        "pressure": 101.17651091427615,
+        "vibration": 40.56439523245755
+    },
+    {
+        "days_since_maintenance": 120.0,
+        "volt": 169.73784703398772,
+        "rotate": 449.0564939531296,
+        "pressure": 99.92575423955347,
+        "vibration": 40.20377675328723
+    },
+    {
+        "days_since_maintenance": 121.0,
+        "volt": 170.1874645789097,
+        "rotate": 445.79314891055236,
+        "pressure": 99.91604829194051,
+        "vibration": 39.77127879654667
+    },
+    {
+        "days_since_maintenance": 122.0,
+        "volt": 171.2664051402222,
+        "rotate": 445.2572133764364,
+        "pressure": 100.69597303893364,
+        "vibration": 39.74261748102695
+    },
+    {
+        "days_since_maintenance": 123.0,
+        "volt": 168.91898120756255,
+        "rotate": 450.1025576202028,
+        "pressure": 100.17105807232018,
+        "vibration": 40.14391412250557
+    },
+    {
+        "days_since_maintenance": 124.0,
+        "volt": 170.3346924471635,
+        "rotate": 449.34719598588794,
+        "pressure": 101.1755841733532,
+        "vibration": 40.492684516354366
+    },
+    {
+        "days_since_maintenance": 125.0,
+        "volt": 170.0692423071354,
+        "rotate": 451.550633944053,
+        "pressure": 101.51853681543577,
+        "vibration": 39.88536742735705
+    },
+    {
+        "days_since_maintenance": 126.0,
+        "volt": 171.64401342436,
+        "rotate": 448.67595394976644,
+        "pressure": 102.55295787339917,
+        "vibration": 40.63057857455653
+    },
+    {
+        "days_since_maintenance": 127.0,
+        "volt": 170.7947097482388,
+        "rotate": 443.8924690814955,
+        "pressure": 101.1820865144248,
+        "vibration": 40.09760849606039
+    },
+    {
+        "days_since_maintenance": 128.0,
+        "volt": 171.55963294943498,
+        "rotate": 442.46130629904536,
+        "pressure": 99.843469724838,
+        "vibration": 40.608854925911984
+    },
+    {
+        "days_since_maintenance": 129.0,
+        "volt": 170.44045709191067,
+        "rotate": 451.51138090328027,
+        "pressure": 100.47284275990411,
+        "vibration": 40.66238297438827
+    },
+    {
+        "days_since_maintenance": 130.0,
+        "volt": 170.81225498435938,
+        "rotate": 449.58491074337286,
+        "pressure": 100.93780483458166,
+        "vibration": 40.38227840544212
+    },
+    {
+        "days_since_maintenance": 131.0,
+        "volt": 170.14637097215106,
+        "rotate": 448.57595102754794,
+        "pressure": 99.92988063471283,
+        "vibration": 40.14941824224169
+    },
+    {
+        "days_since_maintenance": 132.0,
+        "volt": 171.02401159493564,
+        "rotate": 446.7706153638195,
+        "pressure": 99.79306371183279,
+        "vibration": 41.33138082376817
+    },
+    {
+        "days_since_maintenance": 133.0,
+        "volt": 171.94702498033234,
+        "rotate": 443.06090118311755,
+        "pressure": 100.10762178567514,
+        "vibration": 40.12242862506103
+    },
+    {
+        "days_since_maintenance": 134.0,
+        "volt": 171.821342869375,
+        "rotate": 441.021179965768,
+        "pressure": 100.55644608683579,
+        "vibration": 40.559255471507406
+    },
+    {
+        "days_since_maintenance": 135.0,
+        "volt": 169.94173293130112,
+        "rotate": 450.74348482169637,
+        "pressure": 99.83822540242032,
+        "vibration": 39.92426948035304
+    },
+    {
+        "days_since_maintenance": 136.0,
+        "volt": 171.37208024903595,
+        "rotate": 447.34956151042263,
+        "pressure": 99.55848769837529,
+        "vibration": 39.36354847838555
+    },
+    {
+        "days_since_maintenance": 137.0,
+        "volt": 172.6294984002955,
+        "rotate": 450.4778376216158,
+        "pressure": 100.36059431672116,
+        "vibration": 39.607451906376845
+    },
+    {
+        "days_since_maintenance": 138.0,
+        "volt": 171.53003875981278,
+        "rotate": 445.38955485892666,
+        "pressure": 99.89133297169867,
+        "vibration": 40.406183855042954
+    },
+    {
+        "days_since_maintenance": 139.0,
+        "volt": 169.74790056830818,
+        "rotate": 448.8954143683697,
+        "pressure": 100.41469932924454,
+        "vibration": 40.3662186902155
+    },
+    {
+        "days_since_maintenance": 140.0,
+        "volt": 170.07978967696516,
+        "rotate": 443.59394972247424,
+        "pressure": 99.82023156443383,
+        "vibration": 40.54335473417591
+    },
+    {
+        "days_since_maintenance": 141.0,
+        "volt": 170.5502887373497,
+        "rotate": 440.4687242708977,
+        "pressure": 101.0971395082163,
+        "vibration": 40.20847062374271
+    },
+    {
+        "days_since_maintenance": 142.0,
+        "volt": 172.34443174605244,
+        "rotate": 447.6054743950797,
+        "pressure": 101.07069782564264,
+        "vibration": 39.74445138086993
+    },
+    {
+        "days_since_maintenance": 143.0,
+        "volt": 170.9732935657195,
+        "rotate": 449.45994002538276,
+        "pressure": 100.32350854367293,
+        "vibration": 39.77128828475438
+    },
+    {
+        "days_since_maintenance": 144.0,
+        "volt": 169.40317815589228,
+        "rotate": 450.49916057066724,
+        "pressure": 100.60214686266491,
+        "vibration": 40.205461872435016
+    },
+    {
+        "days_since_maintenance": 145.0,
+        "volt": 170.63481178878808,
+        "rotate": 450.9539884713947,
+        "pressure": 99.90069694471141,
+        "vibration": 41.33610750736834
+    },
+    {
+        "days_since_maintenance": 146.0,
+        "volt": 169.61631947783115,
+        "rotate": 449.6292514523308,
+        "pressure": 100.2945161628107,
+        "vibration": 40.89293433509118
+    },
+    {
+        "days_since_maintenance": 147.0,
+        "volt": 170.2647592733815,
+        "rotate": 452.9743852129964,
+        "pressure": 101.06349341839693,
+        "vibration": 40.183793421868685
+    },
+    {
+        "days_since_maintenance": 148.0,
+        "volt": 176.13551911135386,
+        "rotate": 439.57116366035416,
+        "pressure": 102.44888088986835,
+        "vibration": 39.54673617845007
+    },
+    {
+        "days_since_maintenance": 149.0,
+        "volt": 173.68253531599245,
+        "rotate": 430.7588254134756,
+        "pressure": 103.66004685310264,
+        "vibration": 39.45027522203843
+    },
+    {
+        "days_since_maintenance": 150.0,
+        "volt": 171.84430708235848,
+        "rotate": 444.41899986724917,
+        "pressure": 101.32158620651698,
+        "vibration": 39.922556586451435
+    },
+    {
+        "days_since_maintenance": 151.0,
+        "volt": 171.9407103176618,
+        "rotate": 428.4740223381546,
+        "pressure": 100.35836522910525,
+        "vibration": 40.177063878713184
+    },
+    {
+        "days_since_maintenance": 152.0,
+        "volt": 171.18190345027938,
+        "rotate": 433.6488009763726,
+        "pressure": 99.41902888531293,
+        "vibration": 41.24975388748176
+    },
+    {
+        "days_since_maintenance": 153.0,
+        "volt": 171.16067270022563,
+        "rotate": 453.0631276412731,
+        "pressure": 99.635722495905,
+        "vibration": 40.95094844587705
+    },
+    {
+        "days_since_maintenance": 154.0,
+        "volt": 172.0877098985597,
+        "rotate": 450.3308337042338,
+        "pressure": 101.01180944128025,
+        "vibration": 39.42181129879148
+    },
+    {
+        "days_since_maintenance": 155.0,
+        "volt": 169.80726149918632,
+        "rotate": 442.62340891814694,
+        "pressure": 99.85136667933847,
+        "vibration": 41.53931052498758
+    },
+    {
+        "days_since_maintenance": 156.0,
+        "volt": 170.11657896812204,
+        "rotate": 443.66399195545847,
+        "pressure": 101.94999743182535,
+        "vibration": 41.3629821615707
+    },
+    {
+        "days_since_maintenance": 157.0,
+        "volt": 169.88384124937096,
+        "rotate": 447.343488445124,
+        "pressure": 99.52374509020807,
+        "vibration": 40.23182824153516
+    },
+    {
+        "days_since_maintenance": 158.0,
+        "volt": 169.54586822784563,
+        "rotate": 458.9807445205069,
+        "pressure": 99.59784919707343,
+        "vibration": 40.287393275974054
+    },
+    {
+        "days_since_maintenance": 159.0,
+        "volt": 170.61412650245714,
+        "rotate": 435.27394091164706,
+        "pressure": 99.50064956252776,
+        "vibration": 39.3250589820313
+    },
+    {
+        "days_since_maintenance": 160.0,
+        "volt": 168.2512427409465,
+        "rotate": 435.9377254767842,
+        "pressure": 99.83812267701231,
+        "vibration": 40.05129545753291
+    },
+    {
+        "days_since_maintenance": 161.0,
+        "volt": 168.33027359852673,
+        "rotate": 437.41926253058887,
+        "pressure": 100.9667174369624,
+        "vibration": 39.53181526888585
+    },
+    {
+        "days_since_maintenance": 162.0,
+        "volt": 171.2079644132154,
+        "rotate": 422.03306727424814,
+        "pressure": 100.46200043129502,
+        "vibration": 40.51230775312815
+    },
+    {
+        "days_since_maintenance": 163.0,
+        "volt": 171.57912764876767,
+        "rotate": 437.61101706439615,
+        "pressure": 103.97297267794812,
+        "vibration": 41.113955392461165
+    },
+    {
+        "days_since_maintenance": 164.0,
+        "volt": 174.87480537608852,
+        "rotate": 452.4117974550744,
+        "pressure": 103.00041491098602,
+        "vibration": 42.5425330990409
+    },
+    {
+        "days_since_maintenance": 165.0,
+        "volt": 175.1627727472163,
+        "rotate": 447.225045176301,
+        "pressure": 100.9913781641416,
+        "vibration": 42.1328473128431
+    },
+    {
+        "days_since_maintenance": 166.0,
+        "volt": 172.65934088198958,
+        "rotate": 448.2940904039579,
+        "pressure": 105.5034234850283,
+        "vibration": 40.945716474046854
+    },
+    {
+        "days_since_maintenance": 167.0,
+        "volt": 169.65980754457192,
+        "rotate": 451.39213461034973,
+        "pressure": 107.93973075856279,
+        "vibration": 40.438439285298905
+    },
+    {
+        "days_since_maintenance": 168.0,
+        "volt": 168.78494766870736,
+        "rotate": 438.69473931625663,
+        "pressure": 102.10089541427674,
+        "vibration": 39.89920694921803
+    },
+    {
+        "days_since_maintenance": 169.0,
+        "volt": 172.36313714009717,
+        "rotate": 450.0560389695954,
+        "pressure": 98.71412563887067,
+        "vibration": 40.50028401440386
+    },
+    {
+        "days_since_maintenance": 170.0,
+        "volt": 169.63252761211038,
+        "rotate": 455.25357017235825,
+        "pressure": 101.66039412630549,
+        "vibration": 39.72912775091373
+    },
+    {
+        "days_since_maintenance": 171.0,
+        "volt": 171.23149622525662,
+        "rotate": 446.6310340863901,
+        "pressure": 105.9705663018883,
+        "vibration": 39.605433631810996
+    },
+    {
+        "days_since_maintenance": 172.0,
+        "volt": 170.79412524611124,
+        "rotate": 450.3922590011375,
+        "pressure": 106.1995941755112,
+        "vibration": 40.623739880493666
+    },
+    {
+        "days_since_maintenance": 173.0,
+        "volt": 169.65755963589328,
+        "rotate": 449.5976032588922,
+        "pressure": 99.55377813063876,
+        "vibration": 38.935383977199535
+    },
+    {
+        "days_since_maintenance": 174.0,
+        "volt": 168.8913623318831,
+        "rotate": 448.97384946115955,
+        "pressure": 99.41597799737376,
+        "vibration": 39.57406034751337
+    },
+    {
+        "days_since_maintenance": 175.0,
+        "volt": 169.55732258276655,
+        "rotate": 449.34057271374076,
+        "pressure": 105.85340822374303,
+        "vibration": 39.34926930311425
+    },
+    {
+        "days_since_maintenance": 176.0,
+        "volt": 174.8094123469152,
+        "rotate": 456.10495274548543,
+        "pressure": 105.19128094150209,
+        "vibration": 40.093695483380415
+    },
+    {
+        "days_since_maintenance": 177.0,
+        "volt": 170.00537611951083,
+        "rotate": 456.8876711878676,
+        "pressure": 101.003417349995,
+        "vibration": 40.163511619566776
+    },
+    {
+        "days_since_maintenance": 178.0,
+        "volt": 169.40984798953957,
+        "rotate": 425.57362403717246,
+        "pressure": 99.80326394675346,
+        "vibration": 42.184806718696045
+    },
+    {
+        "days_since_maintenance": 179.0,
+        "volt": 167.14052070974915,
+        "rotate": 435.5389581758991,
+        "pressure": 99.9914330674092,
+        "vibration": 43.04097775762894
+    },
+    {
+        "days_since_maintenance": 180.0,
+        "volt": 168.74641852948085,
+        "rotate": 457.3514793884643,
+        "pressure": 101.05685285229687,
+        "vibration": 39.833237334133266
+    },
+    {
+        "days_since_maintenance": 181.0,
+        "volt": 169.13921527399998,
+        "rotate": 443.4618074124715,
+        "pressure": 99.52381091095732,
+        "vibration": 40.45253220809307
+    },
+    {
+        "days_since_maintenance": 182.0,
+        "volt": 172.56260566632713,
+        "rotate": 451.38554539384717,
+        "pressure": 99.95478586720242,
+        "vibration": 39.864265183613554
+    },
+    {
+        "days_since_maintenance": 183.0,
+        "volt": 170.22192036543575,
+        "rotate": 460.95073875166435,
+        "pressure": 99.62779262764924,
+        "vibration": 40.87316801318986
+    },
+    {
+        "days_since_maintenance": 184.0,
+        "volt": 175.62504885352982,
+        "rotate": 445.7112627125484,
+        "pressure": 99.82870697653641,
+        "vibration": 40.50271003907224
+    },
+    {
+        "days_since_maintenance": 185.0,
+        "volt": 171.73922787427566,
+        "rotate": 443.58438151211755,
+        "pressure": 98.52937097068686,
+        "vibration": 39.96884470446908
+    },
+    {
+        "days_since_maintenance": 186.0,
+        "volt": 169.07863026555376,
+        "rotate": 434.9914626034369,
+        "pressure": 100.05537040868485,
+        "vibration": 39.33097664322356
+    },
+    {
+        "days_since_maintenance": 187.0,
+        "volt": 166.20832481174497,
+        "rotate": 434.34288696849086,
+        "pressure": 100.4562886884654,
+        "vibration": 40.4993324636721
+    },
+    {
+        "days_since_maintenance": 188.0,
+        "volt": 172.7616898625977,
+        "rotate": 448.53185404848887,
+        "pressure": 98.5802654064483,
+        "vibration": 40.535027625355056
+    },
+    {
+        "days_since_maintenance": 189.0,
+        "volt": 169.0554883443217,
+        "rotate": 443.50240210462493,
+        "pressure": 101.21225288959265,
+        "vibration": 39.828946929351055
+    },
+    {
+        "days_since_maintenance": 190.0,
+        "volt": 168.99342217201044,
+        "rotate": 447.51617867560975,
+        "pressure": 104.849259838114,
+        "vibration": 40.587177775748316
+    },
+    {
+        "days_since_maintenance": 191.0,
+        "volt": 173.60726036090009,
+        "rotate": 446.0107244945461,
+        "pressure": 105.93808826289892,
+        "vibration": 38.935618371967486
+    },
+    {
+        "days_since_maintenance": 192.0,
+        "volt": 169.83590898842465,
+        "rotate": 451.40972983698583,
+        "pressure": 106.50408779635023,
+        "vibration": 40.92741733883867
+    },
+    {
+        "days_since_maintenance": 193.0,
+        "volt": 170.01125604430933,
+        "rotate": 444.64967094079685,
+        "pressure": 105.86755528286919,
+        "vibration": 40.40316986881107
+    },
+    {
+        "days_since_maintenance": 194.0,
+        "volt": 168.08502681682097,
+        "rotate": 448.49970704330275,
+        "pressure": 100.49630704297842,
+        "vibration": 40.091805503714134
+    },
+    {
+        "days_since_maintenance": 195.0,
+        "volt": 173.26027309185793,
+        "rotate": 428.0933324077411,
+        "pressure": 100.28731835495569,
+        "vibration": 40.057139120055794
+    },
+    {
+        "days_since_maintenance": 196.0,
+        "volt": 168.1033036405248,
+        "rotate": 424.5856872154136,
+        "pressure": 99.66198532656426,
+        "vibration": 39.57370556073026
+    },
+    {
+        "days_since_maintenance": 197.0,
+        "volt": 171.23578544695476,
+        "rotate": 450.19330956701094,
+        "pressure": 102.89549400095052,
+        "vibration": 39.725958481512556
+    },
+    {
+        "days_since_maintenance": 198.0,
+        "volt": 169.9896176665042,
+        "rotate": 445.1627228043527,
+        "pressure": 99.075796852522,
+        "vibration": 39.75270062258818
+    },
+    {
+        "days_since_maintenance": 199.0,
+        "volt": 170.24714863458155,
+        "rotate": 436.07358680096326,
+        "pressure": 99.97305872979665,
+        "vibration": 39.81002262549994
+    },
+    {
+        "days_since_maintenance": 200.0,
+        "volt": 169.80574444275442,
+        "rotate": 435.6669432846998,
+        "pressure": 99.57009082928298,
+        "vibration": 39.58627768590985
+    },
+    {
+        "days_since_maintenance": 201.0,
+        "volt": 172.26109160954778,
+        "rotate": 445.491173089312,
+        "pressure": 101.81268508036504,
+        "vibration": 40.091351263303686
+    },
+    {
+        "days_since_maintenance": 202.0,
+        "volt": 169.37163664062734,
+        "rotate": 451.1956297727522,
+        "pressure": 99.64767463256433,
+        "vibration": 40.055469374603064
+    },
+    {
+        "days_since_maintenance": 203.0,
+        "volt": 169.81214123077595,
+        "rotate": 442.38819591647604,
+        "pressure": 100.67256179028087,
+        "vibration": 39.16804472385546
+    },
+    {
+        "days_since_maintenance": 204.0,
+        "volt": 170.02231852219342,
+        "rotate": 446.64771969472673,
+        "pressure": 100.92335314954333,
+        "vibration": 39.32520219400107
+    },
+    {
+        "days_since_maintenance": 205.0,
+        "volt": 170.8226112088215,
+        "rotate": 448.3573096867019,
+        "pressure": 99.78263099159145,
+        "vibration": 40.310158608149415
+    },
+    {
+        "days_since_maintenance": 206.0,
+        "volt": 171.3997601327847,
+        "rotate": 455.51110430410114,
+        "pressure": 99.16142436032185,
+        "vibration": 39.19482020093209
+    },
+    {
+        "days_since_maintenance": 207.0,
+        "volt": 171.14436155621917,
+        "rotate": 444.83699261645063,
+        "pressure": 102.32896785350158,
+        "vibration": 39.557286846053294
+    },
+    {
+        "days_since_maintenance": 208.0,
+        "volt": 168.70068522692975,
+        "rotate": 446.5712578891642,
+        "pressure": 100.42774799506998,
+        "vibration": 40.435514045445906
+    },
+    {
+        "days_since_maintenance": 209.0,
+        "volt": 166.43536084114163,
+        "rotate": 459.82276037970615,
+        "pressure": 100.6578161824026,
+        "vibration": 39.22065875817414
+    },
+    {
+        "days_since_maintenance": 210.0,
+        "volt": 173.597525942237,
+        "rotate": 459.031996142918,
+        "pressure": 98.78597807333941,
+        "vibration": 38.31780345109004
+    },
+    {
+        "days_since_maintenance": 211.0,
+        "volt": 180.28575712255542,
+        "rotate": 449.95720841525787,
+        "pressure": 101.87377896986345,
+        "vibration": 40.189695954754576
+    },
+    {
+        "days_since_maintenance": 212.0,
+        "volt": 170.0345744715172,
+        "rotate": 461.51924207965266,
+        "pressure": 98.04768773432284,
+        "vibration": 40.19196407698621
+    },
+    {
+        "days_since_maintenance": 213.0,
+        "volt": 171.4606627394218,
+        "rotate": 445.1778535816306,
+        "pressure": 96.043401783401,
+        "vibration": 39.986197770831645
+    },
+    {
+        "days_since_maintenance": 214.0,
+        "volt": 173.27684906963404,
+        "rotate": 453.889848861664,
+        "pressure": 99.01506884772071,
+        "vibration": 41.478444478804704
+    },
+    {
+        "days_since_maintenance": 215.0,
+        "volt": 165.0508289343296,
+        "rotate": 451.71571829632035,
+        "pressure": 97.01795146167414,
+        "vibration": 38.31087550660451
+    },
+    {
+        "days_since_maintenance": 216.0,
+        "volt": 169.1713216642897,
+        "rotate": 452.61909121922116,
+        "pressure": 99.06938663556649,
+        "vibration": 45.83095301836366
+    },
+    {
+        "days_since_maintenance": 217.0,
+        "volt": 166.66409189854463,
+        "rotate": 440.23591029635867,
+        "pressure": 104.14802851090978,
+        "vibration": 49.817668406450956
+    },
+    {
+        "days_since_maintenance": 218.0,
+        "volt": 165.50757671551338,
+        "rotate": 451.71552037225456,
+        "pressure": 101.43127212753701,
+        "vibration": 43.81290855435798
+    },
+    {
+        "days_since_maintenance": 219.0,
+        "volt": 173.24125614167517,
+        "rotate": 453.50159611804196,
+        "pressure": 101.14119205251903,
+        "vibration": 39.93237634380638
+    },
+    {
+        "days_since_maintenance": 220.0,
+        "volt": 169.85276005498616,
+        "rotate": 455.80124314542326,
+        "pressure": 98.5246975275311,
+        "vibration": 40.576578727608045
+    },
+    {
+        "days_since_maintenance": 221.0,
+        "volt": 165.69155796690634,
+        "rotate": 443.55938938818053,
+        "pressure": 99.54017983510926,
+        "vibration": 39.47617587905871
+    },
+    {
+        "days_since_maintenance": 222.0,
+        "volt": 171.32038431401523,
+        "rotate": 452.96738090352204,
+        "pressure": 98.83238377621664,
+        "vibration": 39.737920567470304
+    },
+    {
+        "days_since_maintenance": 223.0,
+        "volt": 167.56651576732017,
+        "rotate": 457.2622091526107,
+        "pressure": 101.7019212754207,
+        "vibration": 39.13193648675517
+    },
+    {
+        "days_since_maintenance": 224.0,
+        "volt": 172.64622644146516,
+        "rotate": 467.8671873373114,
+        "pressure": 102.49899699532999,
+        "vibration": 40.91145662667731
+    }
+]

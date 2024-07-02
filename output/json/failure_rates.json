@@ -1,0 +1,402 @@
+[
+    {
+        "machineID": 1,
+        "failure_rate": 0.0012539899680802553
+    },
+    {
+        "machineID": 2,
+        "failure_rate": 0.0006839165621794141
+    },
+    {
+        "machineID": 3,
+        "failure_rate": 0.0005698655117392296
+    },
+    {
+        "machineID": 4,
+        "failure_rate": 0.0007979936160510716
+    },
+    {
+        "machineID": 5,
+        "failure_rate": 0.001140120852810398
+    },
+    {
+        "machineID": 6,
+        "failure_rate": 0.0
+    },
+    {
+        "machineID": 7,
+        "failure_rate": 0.0019364392299806355
+    },
+    {
+        "machineID": 8,
+        "failure_rate": 0.0005704506560182544
+    },
+    {
+        "machineID": 9,
+        "failure_rate": 0.0018235696375655346
+    },
+    {
+        "machineID": 10,
+        "failure_rate": 0.0009116809116809116
+    },
+    {
+        "machineID": 11,
+        "failure_rate": 0.0010261087675293582
+    },
+    {
+        "machineID": 12,
+        "failure_rate": 0.0010258748432691212
+    },
+    {
+        "machineID": 13,
+        "failure_rate": 0.0025054094066734997
+    },
+    {
+        "machineID": 14,
+        "failure_rate": 0.0007979936160510716
+    },
+    {
+        "machineID": 15,
+        "failure_rate": 0.0015954415954415955
+    },
+    {
+        "machineID": 16,
+        "failure_rate": 0.0018237774991451043
+    },
+    {
+        "machineID": 17,
+        "failure_rate": 0.0026201868307131463
+    },
+    {
+        "machineID": 18,
+        "failure_rate": 0.0012542759407069555
+    },
+    {
+        "machineID": 19,
+        "failure_rate": 0.0010263427984946972
+    },
+    {
+        "machineID": 20,
+        "failure_rate": 0.0020522175350587164
+    },
+    {
+        "machineID": 21,
+        "failure_rate": 0.0018237774991451043
+    },
+    {
+        "machineID": 22,
+        "failure_rate": 0.002734107997265892
+    },
+    {
+        "machineID": 23,
+        "failure_rate": 0.0018241933644966366
+    },
+    {
+        "machineID": 24,
+        "failure_rate": 0.0015961691939345571
+    },
+    {
+        "machineID": 25,
+        "failure_rate": 0.0015950780448900535
+    },
+    {
+        "machineID": 26,
+        "failure_rate": 0.0011399908800729594
+    },
+    {
+        "machineID": 27,
+        "failure_rate": 0.0006837606837606838
+    },
+    {
+        "machineID": 28,
+        "failure_rate": 0.0009123047097730642
+    },
+    {
+        "machineID": 29,
+        "failure_rate": 0.0004561523548865321
+    },
+    {
+        "machineID": 30,
+        "failure_rate": 0.0009116809116809116
+    },
+    {
+        "machineID": 31,
+        "failure_rate": 0.0012538470306622592
+    },
+    {
+        "machineID": 32,
+        "failure_rate": 0.0017095965352176886
+    },
+    {
+        "machineID": 33,
+        "failure_rate": 0.0015954415954415955
+    },
+    {
+        "machineID": 34,
+        "failure_rate": 0.0004561523548865321
+    },
+    {
+        "machineID": 35,
+        "failure_rate": 0.0019375427399133803
+    },
+    {
+        "machineID": 36,
+        "failure_rate": 0.0009119927040583675
+    },
+    {
+        "machineID": 37,
+        "failure_rate": 0.0021657357802348115
+    },
+    {
+        "machineID": 38,
+        "failure_rate": 0.0011399908800729594
+    },
+    {
+        "machineID": 39,
+        "failure_rate": 0.0009118887495725522
+    },
+    {
+        "machineID": 40,
+        "failure_rate": 0.0015959872321021432
+    },
+    {
+        "machineID": 41,
+        "failure_rate": 0.00045604834112415916
+    },
+    {
+        "machineID": 42,
+        "failure_rate": 0.0015956234328698426
+    },
+    {
+        "machineID": 43,
+        "failure_rate": 0.001709986320109439
+    },
+    {
+        "machineID": 44,
+        "failure_rate": 0.0006840725116862387
+    },
+    {
+        "machineID": 45,
+        "failure_rate": 0.0011406410402646286
+    },
+    {
+        "machineID": 46,
+        "failure_rate": 0.0003419582810897071
+    },
+    {
+        "machineID": 47,
+        "failure_rate": 0.0013684570646595963
+    },
+    {
+        "machineID": 48,
+        "failure_rate": 0.0012539899680802553
+    },
+    {
+        "machineID": 49,
+        "failure_rate": 0.0020517496865382423
+    },
+    {
+        "machineID": 50,
+        "failure_rate": 0.0007980845969672786
+    },
+    {
+        "machineID": 51,
+        "failure_rate": 0.0013684570646595963
+    },
+    {
+        "machineID": 52,
+        "failure_rate": 0.001367053998632946
+    },
+    {
+        "machineID": 53,
+        "failure_rate": 0.0007985398129135296
+    },
+    {
+        "machineID": 54,
+        "failure_rate": 0.0006840725116862387
+    },
+    {
+        "machineID": 55,
+        "failure_rate": 0.001026694045174538
+    },
+    {
+        "machineID": 56,
+        "failure_rate": 0.0018237774991451043
+    },
+    {
+        "machineID": 57,
+        "failure_rate": 0.00034215328467153286
+    },
+    {
+        "machineID": 58,
+        "failure_rate": 0.0013681450233724774
+    },
+    {
+        "machineID": 59,
+        "failure_rate": 0.0011402508551881414
+    },
+    {
+        "machineID": 60,
+        "failure_rate": 0.0009120966822483183
+    },
+    {
+        "machineID": 61,
+        "failure_rate": 0.0007981755986316989
+    },
+    {
+        "machineID": 62,
+        "failure_rate": 0.001253704125826305
+    },
+    {
+        "machineID": 63,
+        "failure_rate": 0.0014813126709206927
+    },
+    {
+        "machineID": 64,
+        "failure_rate": 0.0014821571086535172
+    },
+    {
+        "machineID": 65,
+        "failure_rate": 0.0010261087675293582
+    },
+    {
+        "machineID": 66,
+        "failure_rate": 0.0011393414606357525
+    },
+    {
+        "machineID": 67,
+        "failure_rate": 0.0012542759407069555
+    },
+    {
+        "machineID": 68,
+        "failure_rate": 0.0006837606837606838
+    },
+    {
+        "machineID": 69,
+        "failure_rate": 0.0015961691939345571
+    },
+    {
+        "machineID": 70,
+        "failure_rate": 0.0011397310234784591
+    },
+    {
+        "machineID": 71,
+        "failure_rate": 0.002165488944609072
+    },
+    {
+        "machineID": 72,
+        "failure_rate": 0.00022818026240730178
+    },
+    {
+        "machineID": 73,
+        "failure_rate": 0.001710961560396943
+    },
+    {
+        "machineID": 74,
+        "failure_rate": 0.0009122006841505131
+    },
+    {
+        "machineID": 75,
+        "failure_rate": 0.0013681450233724774
+    },
+    {
+        "machineID": 76,
+        "failure_rate": 0.0014824951533812293
+    },
+    {
+        "machineID": 77,
+        "failure_rate": 0.0
+    },
+    {
+        "machineID": 78,
+        "failure_rate": 0.0015965332421028623
+    },
+    {
+        "machineID": 79,
+        "failure_rate": 0.0012544189759379632
+    },
+    {
+        "machineID": 80,
+        "failure_rate": 0.0006838386140870754
+    },
+    {
+        "machineID": 81,
+        "failure_rate": 0.0014811438988264784
+    },
+    {
+        "machineID": 82,
+        "failure_rate": 0.0009120966822483183
+    },
+    {
+        "machineID": 83,
+        "failure_rate": 0.0023917995444191343
+    },
+    {
+        "machineID": 84,
+        "failure_rate": 0.001367209752762903
+    },
+    {
+        "machineID": 85,
+        "failure_rate": 0.001710181279215597
+    },
+    {
+        "machineID": 86,
+        "failure_rate": 0.0005703205201323143
+    },
+    {
+        "machineID": 87,
+        "failure_rate": 0.0011407711613050423
+    },
+    {
+        "machineID": 88,
+        "failure_rate": 0.0017082336863682953
+    },
+    {
+        "machineID": 89,
+        "failure_rate": 0.0011405109489051094
+    },
+    {
+        "machineID": 90,
+        "failure_rate": 0.002051048313582498
+    },
+    {
+        "machineID": 91,
+        "failure_rate": 0.0007984487281852401
+    },
+    {
+        "machineID": 92,
+        "failure_rate": 0.0014818192180553972
+    },
+    {
+        "machineID": 93,
+        "failure_rate": 0.0009122006841505131
+    },
+    {
+        "machineID": 94,
+        "failure_rate": 0.0014819881440948472
+    },
+    {
+        "machineID": 95,
+        "failure_rate": 0.0018237774991451043
+    },
+    {
+        "machineID": 96,
+        "failure_rate": 0.000912512832211703
+    },
+    {
+        "machineID": 97,
+        "failure_rate": 0.0017095965352176886
+    },
+    {
+        "machineID": 98,
+        "failure_rate": 0.002960938389705045
+    },
+    {
+        "machineID": 99,
+        "failure_rate": 0.0027356662487176566
+    },
+    {
+        "machineID": 100,
+        "failure_rate": 0.00034223134839151266
+    }
+]

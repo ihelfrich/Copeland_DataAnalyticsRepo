@@ -1,0 +1,123 @@
+
+========================================
+Descriptive Statistics for: PdM_errors.csv
+
+Column: machineID
+Mean: 51.04465424853279
+Median: 51.0
+Minimum: 1
+Maximum: 100
+Standard Deviation: 28.95498779837263
+
+========================================
+Descriptive Statistics for: PdM_failures.csv
+
+Column: machineID
+Mean: 51.911957950065705
+Median: 51.0
+Minimum: 1
+Maximum: 100
+Standard Deviation: 29.515542319229546
+
+========================================
+Descriptive Statistics for: PdM_machines.csv
+
+Column: machineID
+Mean: 50.5
+Median: 50.5
+Minimum: 1
+Maximum: 100
+Standard Deviation: 29.011491975882016
+
+Column: age
+Mean: 11.33
+Median: 12.0
+Minimum: 0
+Maximum: 20
+Standard Deviation: 5.856973741971311
+
+========================================
+Descriptive Statistics for: PdM_maint.csv
+
+Column: machineID
+Mean: 50.28423615337797
+Median: 50.0
+Minimum: 1
+Maximum: 100
+Standard Deviation: 28.914478018749097
+
+========================================
+Descriptive Statistics for: PdM_telemetry.csv
+
+Column: machineID
+Mean: 50.5
+Median: 50.5
+Minimum: 1
+Maximum: 100
+Standard Deviation: 28.866086521923627
+
+Column: volt
+Mean: 170.77773639409625
+Median: 170.6073378572595
+Minimum: 97.333603782359
+Maximum: 255.124717259791
+Standard Deviation: 15.509114206501646
+
+Column: rotate
+Mean: 446.6051188962587
+Median: 447.55814952108653
+Minimum: 138.432075304341
+Maximum: 695.020984403396
+Standard Deviation: 52.67388603563319
+
+Column: pressure
+Mean: 100.85866799108044
+Median: 100.42555868288349
+Minimum: 51.2371057734253
+Maximum: 185.951997730866
+Standard Deviation: 11.048679392647095
+
+Column: vibration
+Mean: 40.38500676114566
+Median: 40.237246897880354
+Minimum: 14.877053998383
+Maximum: 76.7910723016723
+Standard Deviation: 5.370360561718461
+
+========================================
+Descriptive Statistics for: Sampled_PdM_telemetry.csv
+
+Column: machineID
+Mean: 50.494179411093356
+Median: 50.0
+Minimum: 1
+Maximum: 100
+Standard Deviation: 28.872594887183276
+
+Column: volt
+Mean: 171.02195239683553
+Median: 170.724502633855
+Minimum: 120.475190431532
+Maximum: 238.259903257799
+Standard Deviation: 15.469566993084216
+
+Column: rotate
+Mean: 446.74901024212977
+Median: 448.261250230976
+Minimum: 177.225651839951
+Maximum: 628.021886328127
+Standard Deviation: 52.704887222316984
+
+Column: pressure
+Mean: 100.95621687859871
+Median: 100.414116914409
+Minimum: 60.4713573368338
+Maximum: 153.187089728563
+Standard Deviation: 11.133626131073079
+
+Column: vibration
+Mean: 40.37548598480609
+Median: 40.2902233326377
+Minimum: 21.3486452354679
+Maximum: 65.9155299953505
+Standard Deviation: 5.407666821520404
